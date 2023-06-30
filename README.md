@@ -1,5 +1,5 @@
 # sentimentAnalysis
-final year project
+final year project - Sentiments Analysis of Smart Cities
 Please be careful when you rin tweets_scraping.ipynb because this module will pull new tweets
 that must be classified from the begining.
 
